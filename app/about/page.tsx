@@ -14,7 +14,7 @@ const About = () => {
               About Me
             </h2>
             <p className="text-lg text-gray-800 mb-6 leading-relaxed">
-              I'm Laiba Gohar, a front-end developer dedicated to crafting seamless user
+              Im Laiba Gohar, a front-end developer dedicated to crafting seamless user
               experiences. With [2 years] of experience, I specialize in responsive design and
               creating intuitive interfaces
             </p>
